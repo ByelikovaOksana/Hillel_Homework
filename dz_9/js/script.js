@@ -1,5 +1,5 @@
 const messageInput = document.querySelector('#msg');
-const listEl=document.querySelector('ul');
+const listEl=document.querySelector('#list');
 const btn = document.querySelector('#myButton');
 
 btn.addEventListener('click', onBtnClick,);
