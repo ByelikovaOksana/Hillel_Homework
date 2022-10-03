@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(195, 206, 244);
+}
+.container{
+  background-color: rgb(219, 219, 219);
+}
+
+.delete-btn {
+    color: brown;
+  }
+  
+input.invalid-input {
+    background-color: rgb(237, 209, 209);
+  }
+  
