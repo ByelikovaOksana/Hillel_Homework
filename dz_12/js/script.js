@@ -1,7 +1,7 @@
 'use strict'
 
 function Calculator(value) {
-    this.result=value; 
+    this.set=value; 
     this.add = (b) => (value += b);  
     this.mult= (b) => (value *= b);
     this.div = (b) => (value /= b);
