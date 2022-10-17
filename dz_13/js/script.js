@@ -1,4 +1,3 @@
-// 'use strict';
 function Hamburger(size) {
     this._size=size;
     this._topping=[];
