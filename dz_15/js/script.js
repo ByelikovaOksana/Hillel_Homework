@@ -72,8 +72,8 @@ function onlistElClick(event){
 }
 
 function renderTodoList(list){
-    const HtmlList=list.map((item)=> generateToDoHtml(item));
-    listEl.innerHTML=HtmlList.join('');
+    const htmlList=list.map((item)=> generateToDoHtml(item));
+    listEl.innerHTML=htmlList.join('');
  }
 
 function generateToDoHtml({id, title, completed}){
