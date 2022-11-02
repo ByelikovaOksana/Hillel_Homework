@@ -1,0 +1,27 @@
+.accordion-body {
+    display: none;
+    border: 1px solid grey;
+    padding: 5px 10px;
+    background-color: rgb(180, 242, 242);
+}
+
+
+.accordion-title { 
+    background-color: rgb(240, 240, 240);
+    cursor: pointer;
+    padding-left: 10px;
+}
+
+
+
+
+.accordion-item.accordion-active .accordion-body{
+    display: block;
+    
+}
+
+.accordion-item.accordion-active .accordion-title {
+    background-color: rgb(221, 185, 216);
+    
+}
+
