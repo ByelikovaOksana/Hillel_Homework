@@ -1,0 +1,16 @@
+body{
+  background-color: rgb(195, 206, 244);
+}
+.container{
+  
+  cursor: pointer;
+}
+
+
+  
+input.invalid-input {
+  background-color: red
+}
+.hidden {
+  display: none;
+}
