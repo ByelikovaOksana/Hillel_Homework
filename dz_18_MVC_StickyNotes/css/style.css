@@ -1,0 +1,39 @@
+body, html {
+  height: 100%;
+}
+.board-head {
+  height: 40px;
+  border-bottom: 2px solid grey;
+  background-color: rgb(230, 241, 241);
+}
+
+.board-head button{
+  float: right;
+  margin: 5px;
+  background-color: rgb(255, 68, 0);
+}
+
+.container {
+  max-width: 100%;
+
+}
+.note-item .delete-btn {
+  float: right;
+  margin: 2px;
+  cursor: pointer;
+  color: brown;
+}
+
+.note-item {
+  padding: 10px;
+  border: 2px solid rgb(230, 136, 13);
+  margin: 25px;
+  background-color: rgb(255, 255, 198);
+  color: rgb(31, 24, 93);
+  cursor: pointer;
+  height: 150px;
+  width: 250px;
+}
+.edit-note{
+  background-color: azure;
+}

@@ -1,0 +1,1 @@
+new NotesController (document.querySelector('#notes-container'));
