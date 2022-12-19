@@ -1,0 +1,12 @@
+.item{
+    cursor: pointer;
+   
+}
+
+
+.item.done{
+    text-decoration: line-through;
+}
+button{
+    margin-left: 20px;
+}
