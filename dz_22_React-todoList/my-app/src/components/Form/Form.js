@@ -26,17 +26,4 @@ export class Form extends Component {
 export default Form;
 
 
-// state = {
-    //     title: 'hello',
-    //     author: 'world',
-    // };
-
-    // onSaveClick = () => {
-    //     console.log('clicked');
-    // };
-
-    // onInputChange = (e) => {
-    //     this.setState({
-    //         [e.target.name]: e.target.value,
-    //     });
-    // };
+  
